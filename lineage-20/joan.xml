@@ -5,4 +5,5 @@
   <project name="lifehackerhansol-android/android_kernel_lge_msm8998" path="kernel/lge/msm8998" remote="github" revision="lineage-20" />
   <project name="lifehackerhansol-android/android_hardware_lge" path="hardware/lge" remote="github" revision="lineage-20" />
   <project name="lifehackerhansol-android/android_vendor_lge_joan" path="vendor/lge/joan" remote="github" revision="lineage-20" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-20" />
 </manifest>
