@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="lifehackerhansol-android/android_device_samsung_gtowifi" path="device/samsung/gtowifi" remote="github" revision="lineage-20" />
-  <project name="lifehackerhansol-android/android_kernel_samsung_sdm429" path="kernel/samsung/sdm429" remote="github" revision="lineage-20" />
-  <project name="lifehackerhansol-android/android_vendor_samsung_gtowifi" path="vendor/samsung/gtowifi" remote="github" revision="lineage-20" />
-</manifest>
