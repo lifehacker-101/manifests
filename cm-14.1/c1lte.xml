@@ -5,9 +5,9 @@
 	<project name="lifehackerhansol-android/android_device_samsung_c1-common" path="device/samsung/c1-common" revision="cm-14.1" />
 	<project name="lifehackerhansol-android/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" revision="cm-14.1" />
 	<project name="lifehackerhansol-android/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" revision="cm-14.1" />
-	<project name="lifehackerhansol-android/android_vendor_samsung_c1skt" path="vendor/samsung/c1skt" revision="cm-14.1" />
-	<project name="lifehackerhansol-android/android_vendor_samsung_c1lgt" path="vendor/samsung/c1lgt" revision="cm-14.1" />
-	<project name="lifehackerhansol-android/android_vendor_samsung_c1-common" path="vendor/samsung/c1-common" revision="cm-14.1" />
+	<project name="lifehackerhansol-android/proprietary_vendor_samsung_c1skt" path="vendor/samsung/c1skt" revision="cm-14.1" />
+	<project name="lifehackerhansol-android/proprietary_vendor_samsung_c1lgt" path="vendor/samsung/c1lgt" revision="cm-14.1" />
+	<project name="lifehackerhansol-android/proprietary_vendor_samsung_c1-common" path="vendor/samsung/c1-common" revision="cm-14.1" />
 	<project name="lifehackerhansol-android/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-14.1" />
 	<project name="lifehackerhansol-android/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" />
 	<project name="lifehackerhansol-android/android_hardware_samsung_exynos4_hal" path="hardware/samsung/exynos4/hal" revision="cm-14.1" />
