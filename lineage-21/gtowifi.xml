@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/gtowifi" remote="github" name="LineageOS/android_device_samsung_gtowifi" revision="lineage-21" />
+  <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" revision="lineage-21" />
+  <project path="kernel/samsung/sdm429" remote="github" name="LineageOS/android_kernel_samsung_sdm429" revision="lineage-21" />
+  <project path="vendor/samsung/gtowifi" remote="github" name="TheMuppets/proprietary_vendor_samsung_gtowifi" revision="lineage-21" />
+</manifest>
