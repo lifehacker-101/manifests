@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project path="packages/apps/Updater" name="lifehackerhansol-android/android_packages_apps_Updater" revision="lineage-21.0" remote="github" />
+  <project path="packages/apps/Updater" name="lifehacker-101/android_packages_apps_Updater" revision="lineage-21.0" remote="github" />
 </manifest>

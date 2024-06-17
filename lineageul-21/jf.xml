@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/samsung/jfltexx" remote="github" name="lifehackerhansol-android/android_device_samsung_jfltexx" revision="lineage-21" />
-  <project path="device/samsung/jf-common" remote="github" name="lifehackerhansol-android/android_device_samsung_jf-common" revision="lineage-21" />
-  <project path="device/samsung/qcom-common" remote="github" name="lifehackerhansol-android/android_device_samsung_qcom-common" revision="lineage-21" />
+  <project path="device/samsung/jfltexx" remote="github" name="lifehacker-101/android_device_samsung_jfltexx" revision="lineage-21" />
+  <project path="device/samsung/jf-common" remote="github" name="lifehacker-101/android_device_samsung_jf-common" revision="lineage-21" />
+  <project path="device/samsung/qcom-common" remote="github" name="lifehacker-101/android_device_samsung_qcom-common" revision="lineage-21" />
   <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" revision="lineage-21" />
-  <project path="kernel/samsung/jf" remote="github" name="lifehackerhansol-android/android_kernel_samsung_jf" revision="lineage-21" />
-  <project path="vendor/samsung/jfltexx" remote="github" name="lifehackerhansol-android/proprietary_vendor_samsung_jfltexx" revision="lineage-21" />
-  <project path="vendor/samsung/jf-common" remote="github" name="lifehackerhansol-android/proprietary_vendor_samsung_jf-common" revision="lineage-21" />
+  <project path="kernel/samsung/jf" remote="github" name="lifehacker-101/android_kernel_samsung_jf" revision="lineage-21" />
+  <project path="vendor/samsung/jfltexx" remote="github" name="lifehacker-101/proprietary_vendor_samsung_jfltexx" revision="lineage-21" />
+  <project path="vendor/samsung/jf-common" remote="github" name="lifehacker-101/proprietary_vendor_samsung_jf-common" revision="lineage-21" />
 </manifest>
